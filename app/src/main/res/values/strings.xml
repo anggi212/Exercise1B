@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">To-Do 086</string>
+    <string name="todologo">Logo Todo</string>
+    <string name="welcometext">Welcome in Todo App</string>
+    <string name="enteremail">Masukkan Email</string>
+    <string name="enterpassword">Masukkan Password</string>
+    <string name="signinbuttontext">SIGN-IN</string>
+    <string name="registerbuttontext">Register</string>
+    <string name="registertext">Register</string>
+    <string name="entername">Masukkan Nama</string>
+    <string name="reenterpassword">Masukkan Ulang Password</string>
+    <string name="simpan">Simpan</string>
+    <string name="selamatdatangtext">Selamat Datang</string>
+    <string name="name">MUNTHE</string>
+    <string name="task">Task</string>
+    <string name="entertask">Masukkan Task</string>
+    <string name="jenistask">Jenis Task</string>
+    <string name="enterjenistask">Masukkan Jenis Task</string>
+    <string name="timetask">Lama Task</string>
+    <string name="entertimetask">Masukkan Time Task</string>
+    <string name="namaTask">Task</string>
+    <string name="hasilTask">Hasil Task</string>
+    <string name="jenisTask">Jenis Task</string>
+    <string name="hasilJenisTask">Hasil Jenis Task</string>
+    <string name="lamaTask">Time Task</string>
+    <string name="labelLamaTask">Hasil Time Task</string>
+    <string name="hasilTimeTask">Hasil Time Task</string>
+    <string name="mnDaftar">Pendaftaran</string>
+    <string name="mnLogout">Logout</string>
+</resources>
